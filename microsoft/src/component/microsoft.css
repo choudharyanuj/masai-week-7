@@ -1,0 +1,31 @@
+.logo_img {
+    height: 50px;
+    width: 200px;
+}
+
+.nav_icon {
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.carousel_img {
+    height: 500px;
+    width: 100%;
+}
+
+.card_size {
+    width: 400px;
+    ;
+}
+
+.card_img {
+    height: 200px;
+    width: 400px;
+}
+
+.footer_text {
+    color: gray;
+    font-size: 12px;
+}
