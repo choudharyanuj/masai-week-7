@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## week 7 project
+## Week 7 Project
 ## Anuj Choudhary
-## Ladning Page of Microsoft using React
-## Microsoft is wordl's 2nd biggest IT company and its an honour to design a page for Microsoft
- ## url  of images of project 
+## Landing Page of Microsoft using React
+## Microsoft is world's 2nd biggest IT company and it's an honour to design a page for Microsoft
+ ## url for images of project 
  1) [https://drive.google.com/open?id=1NWI3GnCIYN6dz-FCzPfFGottOc_LUA-P]
  2) [https://drive.google.com/open?id=1gjUfLyaLrNPzJJ20b3eHfjHLMirqd2Ws]
  3) [https://drive.google.com/open?id=1fBnt2t6rINurej59qR60Tbb-x8XdfuWE]
